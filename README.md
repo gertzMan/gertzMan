@@ -8,7 +8,7 @@
 🎓 &nbsp;I have a B.Sc. in Computer Science from The Open University of Israel.\
 🌱 &nbsp;I'm always learning and lately, I'm amid a deep dive into web development and especially react.\
 ✍️ &nbsp;In my free time, I pursue such topics as neuroscience, math, and linguistics. I especially enjoy and have a big passion for Sci-Fi.\
-✉️ &nbsp;You can reach out to me via email at zkinger@icloud.com! I'll try to respond as soon as I can.\
+✉️ &nbsp;You can reach out to me via email at zkinger@icloud.com! I'll try to respond as soon as I can.
 
 <img alt="Night Coding" src="./assets/coding.gif" width='300' align="right"/>
 
